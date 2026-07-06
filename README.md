@@ -22,7 +22,7 @@
 ![生成 Word](images/create_word1.jpg)
 ![生成 Word](images/create_word2.png)
 ### 生成 excel
-![生成 excel](images/create_word1.jpg)
+![生成 excel](images/create_excel1.jpg)
 ![生成 excel](images/create_excel2.png)
 ### 修改样式 
 ![修改 样式](images/modify_excel1.jpg)
